@@ -1,0 +1,20 @@
+working_directory = "/home/tommy/projects"
+live_config_reload = true
+
+[window]
+startup_mode = "Fullscreen"
+opacity = 0.5
+decorations = "None"
+
+[scrolling]
+history = 10000
+multiplier = 10
+
+[cursor]
+style.shape = "Beam"
+style.blinking = "On"
+blink_interval = 300
+blink_timeout = 0
+
+[mouse]
+hide_when_typing = true
