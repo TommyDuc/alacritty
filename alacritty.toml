@@ -1,5 +1,6 @@
-working_directory = "/home/tommy/projects"
+[general]
 live_config_reload = true
+working_directory = "/home/tommy/projects"
 
 [window]
 startup_mode = "Fullscreen"
