@@ -4,7 +4,7 @@ working_directory = "/home/tommy/projects"
 
 [window]
 startup_mode = "Fullscreen"
-opacity = 0.5
+opacity = 0.7
 decorations = "None"
 
 [scrolling]
@@ -19,3 +19,4 @@ blink_timeout = 0
 
 [mouse]
 hide_when_typing = true
+
