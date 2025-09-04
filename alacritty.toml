@@ -21,7 +21,7 @@ history = 10000
 multiplier = 10
 
 [cursor]
-style.shape = "Beam"
+style.shape = "Block"
 style.blinking = "On"
 blink_interval = 300
 blink_timeout = 0
